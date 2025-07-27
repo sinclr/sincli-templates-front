@@ -137,6 +137,9 @@ input/*.json
 lambda_package/
 lambda-package/
 sincli-exports/
+ignore/
+ignore-*/
+
 
 #############################################
 # Exclure les dossiers avec "old" ou "prompt"
